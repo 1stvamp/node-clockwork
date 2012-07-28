@@ -1,0 +1,20 @@
+{
+   "name": "clockwork",
+   "version": "1.0.0",
+   "description": "Mediaburst Clockwork API wrapper",
+   "author": {
+       "name": "Wes Mason",
+       "email": "wes@1stvamp.org",
+       "web": "http://www.1stvamp.org/"
+   }, 
+   "repository": {
+       "type": "git",
+       "url": "https://github.com/1stvamp/node-clockwork.git" 
+   }, 
+   "engines": {
+       "node": ">= 0.6.6"
+   },
+   "dependencies": {
+       "request": "2.9.x"
+   }
+}
