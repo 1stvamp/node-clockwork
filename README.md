@@ -1,16 +1,16 @@
-node-clockworker
+node-clockwork
 ==============
 
 Install
 ---
 ```bash
-npm install clockworker
+npm install clockwork
 ```
 
 Usage
 ---
 ```js
-ClockworkApi = require('clockworker').ClockworkApi;
+ClockworkApi = require('clockwork').ClockworkApi;
 
 client = ClockworkerApi({key: 'YOUR_API_KEY_HERE'}); // Alternatively you can use username and password
 
