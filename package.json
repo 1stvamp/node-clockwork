@@ -16,7 +16,9 @@
        "node": ">= 0.6.6"
    },
    "dependencies": {
-       "request": "2.9.x"
+       "request": "2.9.x",
+       "xmlbuilder": "0.3.x",
+       "libxmljs": "0.6.x"
    },
    "directories": {
        "lib" : "./lib"
