@@ -1,6 +1,6 @@
 {
    "name": "clockwork",
-   "version": "0.0.1",
+   "version": "0.0.2",
    "description": "Mediaburst Clockwork API wrapper",
    "author": {
        "name": "Wes Mason",
@@ -18,7 +18,7 @@
    "dependencies": {
        "request": "2.9.x",
        "xmlbuilder": "0.3.x",
-       "libxmljs": "0.6.x"
+       "xml2js": "0.2.x"
    },
    "directories": {
        "lib" : "./lib"
