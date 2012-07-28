@@ -1,6 +1,6 @@
 {
    "name": "clockworker",
-   "version": "1.0.0",
+   "version": "0.0.1",
    "description": "Mediaburst Clockwork API wrapper",
    "author": {
        "name": "Wes Mason",
