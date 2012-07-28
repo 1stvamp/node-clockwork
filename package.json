@@ -7,6 +7,7 @@
        "email": "wes@1stvamp.org",
        "web": "http://www.1stvamp.org/"
    }, 
+   "keywords": ["api", "clockwork", "mediaburst", "sms", "telephony"],
    "repository": {
        "type": "git",
        "url": "https://github.com/1stvamp/node-clockwork.git" 
@@ -16,5 +17,8 @@
    },
    "dependencies": {
        "request": "2.9.x"
-   }
+   },
+   "directories": {
+       "lib" : "./lib"
+    }
 }
