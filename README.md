@@ -12,7 +12,7 @@ Usage
 ```js
 ClockworkApi = require('clockwork').ClockworkApi;
 
-client = ClockworkerApi({key: 'YOUR_API_KEY_HERE'}); // Alternatively you can use username and password
+client = ClockworkApi({key: 'YOUR_API_KEY_HERE'}); // Alternatively you can use username and password
 
 client.getCredit(function(error, credit) {
     console.log(credit);
