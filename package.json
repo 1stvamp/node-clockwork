@@ -18,7 +18,7 @@
    "dependencies": {
        "request": "2.9.x",
        "xmlbuilder": "0.3.x",
-       "xml2js": "0.2.x"
+       "xml2js": "0.1.x"
    },
    "directories": {
        "lib" : "./lib"
