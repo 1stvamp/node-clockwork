@@ -1,6 +1,6 @@
 {
    "name": "clockwork",
-   "version": "0.0.3",
+   "version": "0.0.4",
    "description": "Mediaburst Clockwork API wrapper",
    "author": {
        "name": "Wes Mason",
@@ -13,7 +13,7 @@
        "url": "https://github.com/1stvamp/node-clockwork.git" 
    }, 
    "engines": {
-       "node": ">= 0.6.6"
+       "node": ">= 0.3.0"
    },
    "dependencies": {
        "request": "2.9.x",
